@@ -18,7 +18,7 @@ header nav a {
     margin: 0 15px;
 }
 
-h1, h2, h3 {
+ h2, h3 {
     color: #333;
 }
 
@@ -76,6 +76,6 @@ video, audio {
     height: auto;
     margin-bottom: 20px;
 }
-h1{
-    color:"white";
+h1 {
+    color: white;
 }
